@@ -19,7 +19,7 @@ I decided that I would also like to include the same looping functionality on th
 So - here it is. A version of the YuSynth 7555 ADSR in 8HP with looping...
 
 <p width=100%, align="center">
-<img height="400", src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Front.png"> &nbsp &nbsp &nbsp &nbsp<img height="400", src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Side.png"> &nbsp &nbsp &nbsp &nbsp<img height="400", src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Rear.png"> 
+<img height="400", src="Images/ADSR%20Front.png"> &nbsp &nbsp &nbsp &nbsp<img height="400", src="Images/ADSR%20Side.png"> &nbsp &nbsp &nbsp &nbsp<img height="400", src="Images/ADSR%20Rear.png"> 
 </p>
 
 # Circuit Details
