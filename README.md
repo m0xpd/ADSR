@@ -62,6 +62,7 @@ different silkscreening, influencing most significantly the licensing...
 
 # Licensing
 
-
-
+<p width=100%, align="center">
+<img width=50%, src="https://github.com/m0xpd/ADSR/blob/main/Images/by-nc-sa.eu.png"> 
+</p>
 
