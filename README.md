@@ -80,4 +80,4 @@ Accordingly, **the copyright for the core of this ADSR circuit rests with Yves a
 I have reflected this in the [License](LICENSE.txt) for the Eurorack version presented in this repository.
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/README.md)
