@@ -53,7 +53,7 @@ manual gate switch and indicator. It is the right height to work with [Thonkicon
 
 Full details of the PCB are given in the [PCB folder](PCB), which includes a .sch and .brd file, developed in EAGLE.
 
-A front panel is decribed by a Kicad project in the [Front Panel folder.](Front Panel)
+A front panel is decribed by a Kicad project in the [Front Panel folder.](Front%20Panel)
 
 My original boards and Front panel (seen in the images above) were made by JLC, who did their usual competent job. 
 
