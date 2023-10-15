@@ -13,11 +13,11 @@ Eddy said:
 
 That decided it - I would make a Eurorack version of Yves' 7555-based design. 
 
-However, having added looping to my ADSRduino, I decided that I would also ike to include looping on the new envelope generator. 
+However, having added looping to my ADSRduino, I decided that I would also like to include the same looping functionality on the new envelope generator. 
 
 So - here it is. A version of the YuSynth 7555 ADSR in 8HP with looping...
 
 <p width=100%, align="center">
-<img width=10%, src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Front%20Crop.png">
+<img width=10%, src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Front%20Crop.png">  
 </p>
 
