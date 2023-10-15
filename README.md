@@ -35,7 +35,19 @@ You will see that I follow Yves' original schematic pretty closely, apart from t
 looping functionality. These are:
 * a comparator (IC1B) to detect when the envelope falls below the PN junction drop (over D5)
 * a positive edge detector (R24/C4/D6) to get a trigger when the envelope falls below the PN junction drop and
-* a one-shot monovibrator (Q5,6 etc), to generate a defined pulse from this trigger, 
+* a one-shot monostable multivibrator (Q5,6 etc), to generate a defined pulse from this trigger, 
 
 which is applied via D7 back to the input stage. If the looping switch (SW2) is set appropriately, this pulse will re-trigger the 
-envelope and cause 'looping' 
+envelope and cause 'looping'.
+
+The old-school transistor one-shot is included because I didn't want to add another IC package (galing already 'spent' the last stage 
+of IC1 on the comparator task).
+
+Other minor departures from Yves' "words and music" include a reduction in input resistor R6 (I had trouble with the specified 1M), 
+substitution of a 2N7000 for Yves' specified BS170 (I see others have had difficuty sourcing these rarer FETs and the garden-variety 
+2N7000 works fine). 
+
+I also chose to use once again the lovely [low-profile push button](https://www.thonk.co.uk/shop/low-profile-led-buttons/) as both 
+manual gate switch and indicator. It is the right height to work with [Thonkiconns](https://www.thonk.co.uk/shop/thonkiconn/) and [Alpha pots](https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/), which makes mechanical assembly a breeze.
+
+Other (trivial) departures from 
