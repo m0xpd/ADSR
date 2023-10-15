@@ -51,7 +51,7 @@ manual gate switch and indicator. It is the right height to work with [Thonkicon
 
 # Construction Details
 
-Full details of the PCB are given in the PCB folder, which includes a .sch and .brd file, developed in EAGLE.
+Full details of the PCB are given in the [PCB folder](https://github.com/m0xpd/ADSR/tree/main/PCB), which includes a .sch and .brd file, developed in EAGLE.
 
 A front panel is decribed by a Kicad project in the Front Panel folder.
 
