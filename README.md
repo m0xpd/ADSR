@@ -18,6 +18,6 @@ However, having added looping to my ADSRduino, I decided that I would also like 
 So - here it is. A version of the YuSynth 7555 ADSR in 8HP with looping...
 
 <p width=100%, align="center">
-<img width=10%, src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Front%20Crop.png">  
+<img width=10%, src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Front%20Crop.png">  <img width=10%, src="https://github.com/m0xpd/ADSR/blob/main/Images/ADSR%20Side.png"> 
 </p>
 
