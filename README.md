@@ -43,11 +43,22 @@ envelope and cause 'looping'.
 The old-school transistor one-shot is included because I didn't want to add another IC package (galing already 'spent' the last stage 
 of IC1 on the comparator task).
 
-Other minor departures from Yves' "words and music" include a reduction in input resistor R6 (I had trouble with the specified 1M), 
+Other minor departures from Yves' "words and music" include a reduction in input resistor R6 (I had trouble with the specified 1M) and 
 substitution of a 2N7000 for Yves' specified BS170 (I see others have had difficuty sourcing these rarer FETs and the garden-variety 
 2N7000 works fine). 
 
 I also chose to use once again the lovely [low-profile push button](https://www.thonk.co.uk/shop/low-profile-led-buttons/) as both 
 manual gate switch and indicator. It is the right height to work with [Thonkiconns](https://www.thonk.co.uk/shop/thonkiconn/) and [Alpha pots](https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/), which makes mechanical assembly a breeze.
 
-Other (trivial) departures from 
+# Construction Details
+
+Full details of the PCB are given in the PCB folder, which includes a .sch and .brd file, developed in EAGLE.
+
+A front panel is decribed by a Kicad project in the Front Panel folder.
+
+My original boards and Front panel (seen in the images above) were made by JLC, who did their usual competent job. 
+
+The images show the v0.1 boards, which have some differences in silkscreening and include a Molex KK connector for power which is not on 
+the present V2.0 design.
+
+
