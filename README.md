@@ -27,7 +27,7 @@ So - here it is. A version of the YuSynth 7555 ADSR in 8HP with looping...
 The schematic is seen below (click for a full-sized version and/or download from the 'images' folder).
 
 <p width=100%, align="center">
-<img width=50%, src="https://github.com/m0xpd/ADSR/blob/main/Images/m0xpd%20Looping%20ADSR%20v2.0%20Schematic.png"> 
+<img width=50%, src="Images/m0xpd%20Looping%20ADSR%20v2.0%20Schematic.png"> 
 </p>
 
 You will see that I follow Yves' original schematic pretty closely, apart from the addition of the elements required to realise the 
@@ -80,7 +80,8 @@ Accordingly, **the copyright for the core of this ADSR circuit rests with Yves a
 I have reflected this in the [License](LICENSE.txt) for the looping Eurorack version presented in this repository.
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/README.md)
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+
 
 # Specifications
 
