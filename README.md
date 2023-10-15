@@ -36,7 +36,7 @@ looping functionality. These are:
 * a positive edge detector (R24/C4/D6) to get a trigger when the envelope falls below the PN junction drop and
 * a one-shot monostable multivibrator (Q5,6 etc), to generate a defined pulse from this trigger, 
 
-which is applied via D7 back to the input stage. If the looping switch (SW2) is set appropriately, this pulse will re-trigger the 
+which is applied via D7 back to the input stage. If the looping switch (SW2) is set appropriately, this pulse can re-trigger the 
 envelope and cause 'looping'.
 
 The old-school transistor one-shot is included because I didn't want to add another IC package (galing already 'spent' the last stage 
