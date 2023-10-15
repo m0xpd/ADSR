@@ -39,7 +39,7 @@ looping functionality. These are:
 which is applied via D7 back to the input stage. If the looping switch (SW2) is set appropriately, this pulse can re-trigger the 
 envelope and cause 'looping'.
 
-The old-school transistor one-shot is included because I didn't want to add another IC package (galing already 'spent' the last stage 
+The old-school transistor one-shot is included because I didn't want to add another IC package (having already 'spent' the last stage 
 of IC1 on the comparator task).
 
 Other minor departures from Yves' "words and music" include a reduction in input resistor R6 (I had trouble with the specified 1M) and 
