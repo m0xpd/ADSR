@@ -13,9 +13,8 @@ Eddy said:
 
 > "I can say without any doubt that this design is perfect if you want a good and reliable ADSR to pair with your VCA or to drive a filter. " 
 
-That decided it - I would make a Eurorack version of Yves' 7555-based design. 
-
-However, having added looping to my ADSRduino, I decided that I would also like to include the same looping functionality on the new envelope generator. 
+That decided it - I would make a Eurorack version of Yves' 7555-based design. However, having added looping to my ADSRduino, 
+I decided that I would also like to include the same looping functionality on the new envelope generator. 
 
 So - here it is. A version of the YuSynth 7555 ADSR in 8HP with looping...
 
