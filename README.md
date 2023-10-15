@@ -57,7 +57,11 @@ A front panel is decribed by a Kicad project in the Front Panel folder.
 
 My original boards and Front panel (seen in the images above) were made by JLC, who did their usual competent job. 
 
-The images show the v0.1 boards, which have some differences in silkscreening and include a Molex KK connector for power which is not on 
-the present V2.0 design.
+The images show the v0.1 boards, which include a Molex KK connector for power which is not on the present V2.0 design. They also have 
+different silkscreening, influencing most significantly the licensing...
+
+# Licensing
+
+
 
 
