@@ -5,7 +5,7 @@ I decided to build a new envelope generator back in December 2022 to supplement 
 own ["ADSRduino"](https://github.com/m0xpd/ADSRduino).
 
 I already knew Yves Usson's excellent [YuSynth site](https://yusynth.net/Modular/index_en.html) (having published a Eurorack version of the ['Simple VCA'](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack)), and was interested by a comment on 
-[Eddy Bergman's website]([)](https://www.eddybergman.com/2020/03/synthesizer-build-part-24-adsr-with.html) about the YuSynth ADSR.
+[Eddy Bergman's website](https://www.eddybergman.com/2020/03/synthesizer-build-part-24-adsr-with.html) about the YuSynth ADSR.
 
 Eddy said:
 
