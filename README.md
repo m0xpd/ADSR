@@ -62,8 +62,8 @@ different silkscreening, influencing most significantly the licensing...
 
 # Licensing
 
-<p width=100%, align="center">
-<img width=25%, src="https://github.com/m0xpd/ADSR/blob/main/Images/by-nc-sa.eu.png"> 
+<p width=100%, align="left">
+<img width=20%, src="https://github.com/m0xpd/ADSR/blob/main/Images/by-nc-sa.eu.png"> 
 </p>
 
 Yves is clear on the position with copyright on his website:
@@ -77,7 +77,17 @@ front panels and software shown on (yusynth.net), is not permitted without a for
 
 Accordingly, **the copyright for the core of this ADSR circuit rests with Yves and no commercial exploitation is permitted**.
 
-I have reflected this in the [License](LICENSE.txt) for the Eurorack version presented in this repository.
+I have reflected this in the [License](LICENSE.txt) for the looping Eurorack version presented in this repository.
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/README.md)
+
+# Specifications
+
+The looping ADSR is 8HP wide and extends 25mm behind the fron panel.
+
+It consumes: 
+7.1mA from the 12V rail (max current in looping mode; quiescent current drain is 3.7mA)  
+1.1mA from the -12V rail (in all conditions) 
+nothing from the 5V rail.
+
