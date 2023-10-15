@@ -87,8 +87,11 @@ This work is licensed under a
 
 The looping ADSR is 8HP wide and extends 25mm behind the front panel.
 
-It consumes: 
+It consumes:
+
 7.1mA from the 12V rail (max current in looping mode; quiescent current drain is 3.7mA)  
+
 1.1mA from the -12V rail (in all conditions) 
+
 nothing from the 5V rail.
 
